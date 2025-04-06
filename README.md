@@ -1,10 +1,8 @@
-# Server Management Telegram Bot
+# Linux Server Management Telegram Bot
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Aiogram](https://img.shields.io/badge/aiogram-3.x-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
-
-# Linux Server Management Telegram Bot
 
 Этот бот позволяет управлять Linux-сервером через Telegram, используя библиотеку aiogram. Он предоставляет администраторам удобный интерфейс для выполнения команд, мониторинга системы и работы с файлами.
 
